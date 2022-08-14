@@ -23,7 +23,7 @@
 
 -Screenshot
 
-![Screenshot](./assets/Reastaurent_ss.png?raw=true)
+![Screenshot](./assets/law-ss.png?raw=true)
 
 ## 📌 **Live Site URL:** <a href="https://kartik-jodhani-street-site-landing.netlify.app/"  target="_blank">**Visit Now** 🚀</a>
 
