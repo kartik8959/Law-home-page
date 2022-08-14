@@ -1,11 +1,11 @@
-## ⭐ Food Restaurant Home Page ⭐
+## ⭐ Law Board Home Page ⭐
 
 > ## ineuron.ai
 
 <table>
 <tr>
 <td>
- This Project has given by Hitesh Sir as the part of project assigments.
+ This Project has given by Hitesh Sir as the part of project assigments. I have build this project in 2 hrs
 </td>
 </tr>
 </table>
